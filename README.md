@@ -23,10 +23,10 @@ The ATM Simulator is built to help users understand the functionalities of an AT
 ## 📥 Getting Started
 To get a copy of the ATM Simulator up and running on your local machine, follow these steps:
 
-1. **Clone the repository:**
+ **Clone the repository:**
    ```bash
    git clone https://github.com/ShaunakChorge/ATM-Simulator.git
-    ```
+   ```
 ## 💻 Usage Once the application is running, you can:
 
 - Run the ATM_Simulator.jar file from the directory to direct start the simulator
