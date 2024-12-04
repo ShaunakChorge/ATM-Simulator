@@ -33,8 +33,21 @@ To get a copy of the ATM Simulator up and running on your local machine, follow 
 - Register a new account by providing the required personal information.
 - Log in using your card number and PIN.
 - Perform transactions such as deposits and withdrawals.
-- Check your account balance and view your transaction history through the mini statement feature. 
+- Check your account balance and view your transaction history through the mini statement feature.
 
+## 🎥 Demo
+
+
+![Login Page](https://github.com/user-attachments/assets/a6038af6-bddf-4a37-bb2a-3b0dfbd6a3b9)
+
+![Application Form](https://github.com/user-attachments/assets/5e5dd22c-a53a-4d53-8cee-bc010df30525)
+
+![ATM](https://github.com/user-attachments/assets/e22274da-cf3d-4d22-8a30-78dd0f884dba)
+
+
+
+## 🤝 Contributing
+Contributions are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
 
 
 <div align="right">
