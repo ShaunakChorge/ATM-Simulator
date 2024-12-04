@@ -23,10 +23,27 @@ The ATM Simulator is built to help users understand the functionalities of an AT
 ## 📥 Getting Started
 To get a copy of the ATM Simulator up and running on your local machine, follow these steps:
 
- **Clone the repository:**
+1. Clone the repository:
    ```bash
    git clone https://github.com/ShaunakChorge/ATM-Simulator.git
    ```
+2. Navigate to the project directory:
+    ```bash
+   cd ATM-Bank-Management-System
+    ```
+   
+3. Set up the MySQL database:
+
+   - Create a database named bankmanagementsystem.
+   - Import the SQL scripts provided in the database folder to set up the necessary tables.
+
+4. Open the project in your preferred IDE.
+
+5. Run the application:
+   - Locate the Login.java file in the src folder and run it.
+
+
+
 ## 💻 Usage Once the application is running, you can:
 
 - Run the ATM_Simulator.jar file from the directory to direct start the simulator
